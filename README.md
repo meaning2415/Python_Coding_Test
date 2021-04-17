@@ -5,3 +5,7 @@ _queue : 리스트를 이용한 큐\
 _stack : 리스트를 이용한 스택\
 _queue_deq : collections의 deque를 이용한 큐\
 _stack_deq : collections의 deque를 이용한 스택
+
+
+다음 문서를 참조하였습니다.
+https://librewiki.net/index.php?curid=15544
